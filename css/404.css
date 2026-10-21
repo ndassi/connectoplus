@@ -1,0 +1,32 @@
+body,
+#page_404 {
+  overflow: hidden;
+  background: #e2e2e5;
+}
+#page_404 {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+#page_404 div {
+  width: fit-content;
+  height: fit-content;
+  text-align: center;
+  position: relative;
+  
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  z-index: 10;
+  
+}
+
+h1{
+    
+}
